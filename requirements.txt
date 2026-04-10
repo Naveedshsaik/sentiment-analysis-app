@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+transformers
+langdetect
+wordcloud
+matplotlib
+scikit-learn
